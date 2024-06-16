@@ -5,5 +5,5 @@ This is great project and useful tool for programmers. I personally prefer that 
 
 Respository is for anybody who would like to COPY of one orderred from developer. This is only partially "open" project. Developer provides schematic and firmware. There is no source code available. Also, Atmega, you are ordering if pre-loaded with flash required to work.
 
-I only re-drafted PCB using SMD componnents (no buzzer due to smaler size).
+I only re-drafted PCB using SMD componnents (no buzzer due to smaler size). You still would order original kit (let author be paid for his effort) to download flash dump for your copies.
 
