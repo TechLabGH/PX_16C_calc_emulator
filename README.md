@@ -9,6 +9,13 @@ I only re-drafted PCB using SMD componnents (no buzzer due to smaler size). You 
 
 ## [Schematic](https://github.com/TechLabGH/PX_16C_calc_emulator/blob/main/HP%2016C%20Pocket.pdf)
 
+Parts:
+* [ATMEGA328-AUR](https://www.mouser.com/ProductDetail/556-ATMEGA328-AUR)
+* [Crystal](https://www.mouser.com/ProductDetail/710-830003000)
+* [Battery Holder](https://www.mouser.com/ProductDetail/12BH002-GR)
+* 6x6 Tactile Switches - select high to match your project
+* 10ohm / 10Kohm / 2 x 0.1uF - 0603 size
+
 ![Main-1](/HP_16C_Pocket_1.jpg)
 
 ![Main-2](/HP_16C_Pocket_2.png)
