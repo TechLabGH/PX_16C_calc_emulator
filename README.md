@@ -7,3 +7,8 @@ Respository is for anybody who would like to COPY of one orderred from developer
 
 I only re-drafted PCB using SMD componnents (no buzzer due to smaler size). You still would order original kit (let author be paid for his effort) to download flash dump for your copies.
 
+[Main-1](/HP 16C Pocket_1.jpg)
+
+[Main-2](/HP 16C Pocket_2.jpg)
+
+[Top](/top.jpg)
