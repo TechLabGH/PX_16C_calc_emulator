@@ -16,7 +16,7 @@ Parts:
 * 6x6 Tactile Switches - select high to match your project
 * 10ohm / 10Kohm / 2 x 0.1uF - 0603 size
 * [Reset button](https://www.mouser.com/ProductDetail/Wurth-Elektronik/431181015816?qs=wr8lucFkNMWQBPdjQ%252B9NsA%3D%3D) - not really needed if your programmer has reset signal.
-* [Screen](https://www.aliexpress.us/item/2255800684095628.html?spm=a2g0o.order_list.order_list_main.11.55771802Im1IZ1&gatewayAdapt=glo2usa) - any 2" 192X64 Graphic Matrix LCD Module Display Screen 3.3V - UC1609C would fit. Make sure to buy 3.3V version.
+* [Screen](https://www.aliexpress.us/item/2255800684095628.html?spm=a2g0o.order_list.order_list_main.11.55771802Im1IZ1&gatewayAdapt=glo2usa) - any 2" 192X64 Graphic Matrix LCD Module Display Screen 3.3V - UC1609C would fit. Make sure to buy 3.3V version. Window in top board is made for display's version without metal cover.
 
 ![Main-1](/HP_16C_Pocket_1.jpg)
 
