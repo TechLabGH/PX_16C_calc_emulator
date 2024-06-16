@@ -15,6 +15,7 @@ Parts:
 * [Battery Holder](https://www.mouser.com/ProductDetail/12BH002-GR)
 * 6x6 Tactile Switches - select high to match your project
 * 10ohm / 10Kohm / 2 x 0.1uF - 0603 size
+* [Reset button](https://www.mouser.com/ProductDetail/Wurth-Elektronik/431181015816?qs=wr8lucFkNMWQBPdjQ%252B9NsA%3D%3D) - not really needed if your programmer has reset signal.
 
 ![Main-1](/HP_16C_Pocket_1.jpg)
 
